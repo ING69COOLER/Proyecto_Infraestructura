@@ -11,15 +11,19 @@
 
 ## Contenedor Apache
 - Creé el Dockerfile.
+  ![alt text.](https://github.com/ING69COOLER/Proyecto_Infraestructura/blob/main/imagenes/Captura%20de%20pantalla%202025-11-16%20104758.png?raw=true)
 - Construí la imagen `apache-custom`.
 - Monté el volumen LVM.
 - Probé acceso desde navegador.
+![alt text.](https://github.com/ING69COOLER/Proyecto_Infraestructura/blob/main/imagenes/Captura%20de%20pantalla%202025-11-16%20185718.png?raw=true)
 
 ## Contenedor MySQL
 - Creé la imagen personalizada `mysql-custom`.
+  ![alt text.](https://github.com/ING69COOLER/Proyecto_Infraestructura/blob/main/imagenes/Captura%20de%20pantalla%202025-11-16%20115032.png?raw=true)
 - Probé conexión y creación de bases de datos.
-- Verifiqué persistencia después del reinicio.
-
+![alt text.](https://github.com/ING69COOLER/Proyecto_Infraestructura/blob/main/imagenes/Captura%20de%20pantalla%202025-11-16%20120746.png?raw=true)
+![alt text.](https://github.com/ING69COOLER/Proyecto_Infraestructura/blob/main/imagenes/Captura%20de%20pantalla%202025-11-16%20121951.png?raw=true)
+![alt text.](https://github.com/ING69COOLER/Proyecto_Infraestructura/blob/main/imagenes/Captura%20de%20pantalla%202025-11-16%20122539.png?raw=true)
 ## Contenedor Nginx
 - Desplegué Nginx con volumen persistente.
 - Verifiqué contenido web.
@@ -28,6 +32,7 @@
 - Apache OK.
 - Nginx OK.
 - MySQL OK con persistencia.
+
 
 
 
