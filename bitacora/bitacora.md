@@ -42,9 +42,8 @@
   ![alt text.](https://github.com/ING69COOLER/Proyecto_Infraestructura/blob/main/imagenes/Captura%20de%20pantalla%202025-11-16%20191006.png?raw=true)
 
 ## Pruebas finales
-- Apache OK.
-- Nginx OK.
-- MySQL OK con persistencia.
+
+![alt text.](https://github.com/ING69COOLER/Proyecto_Infraestructura/blob/main/imagenes/Captura%20de%20pantalla%202025-11-16%20191006.png?raw=true)
 
 
 
