@@ -18,6 +18,8 @@
 ![alt text.](https://github.com/ING69COOLER/Proyecto_Infraestructura/blob/main/imagenes/Captura%20de%20pantalla%202025-11-16%20185718.png?raw=true)
 
 ## Contenedor MySQL
+- Creé el Dockerfile.
+-  ![alt text.](https://github.com/ING69COOLER/Proyecto_Infraestructura/blob/main/imagenes/Captura%20de%20pantalla%202025-11-16%20110008.png?raw=true)
 - Creé la imagen personalizada `mysql-custom`.
   ![alt text.](https://github.com/ING69COOLER/Proyecto_Infraestructura/blob/main/imagenes/Captura%20de%20pantalla%202025-11-16%20115032.png?raw=true)
 - Probé conexión y creación de bases de datos.
@@ -32,6 +34,7 @@
 - Apache OK.
 - Nginx OK.
 - MySQL OK con persistencia.
+
 
 
 
