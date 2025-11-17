@@ -35,16 +35,22 @@
 ![alt text.](https://github.com/ING69COOLER/Proyecto_Infraestructura/blob/main/imagenes/Captura%20de%20pantalla%202025-11-16%20122539.png?raw=true)
 
 ## Contenedor Nginx
+- Dockerfile
+  
+  ![alt text.](https://github.com/ING69COOLER/Proyecto_Infraestructura/blob/main/imagenes/Captura%20de%20pantalla%202025-11-16%20123055.png?raw=true)
 - Construí la imagen
+  
   ![alt text.](https://github.com/ING69COOLER/Proyecto_Infraestructura/blob/main/imagenes/Captura%20de%20pantalla%202025-11-16%20124334.png?raw=true)
 - Desplegué Nginx con volumen persistente.
-![alt text.](https://github.com/ING69COOLER/Proyecto_Infraestructura/blob/main/imagenes/Captura%20de%20pantalla%202025-11-16%20123055.png?raw=true)
+  ![alt text.](https://github.com/ING69COOLER/Proyecto_Infraestructura/blob/main/imagenes/Captura%20de%20pantalla%202025-11-16%20124404.png?raw=true)
+
 - Verifiqué contenido web.
   ![alt text.](https://github.com/ING69COOLER/Proyecto_Infraestructura/blob/main/imagenes/Captura%20de%20pantalla%202025-11-16%20191006.png?raw=true)
 
 ## Pruebas finales
 
 ![alt text.](https://github.com/ING69COOLER/Proyecto_Infraestructura/blob/main/imagenes/Captura%20de%20pantalla%202025-11-16%20191006.png?raw=true)
+
 
 
 
