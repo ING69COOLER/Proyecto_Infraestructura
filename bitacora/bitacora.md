@@ -1,4 +1,7 @@
 # Bitácora del Proyecto de Infraestructura Computacional
+Manuel Pineda Varela-1092455543  
+Santiago Solarte Trujillo-1059355828
+Carlos Alonso Barahona Alvarez-
 
 ## Configuración de RAID y LVM
 - Configuré tres arreglos RAID 1 usando `mdadm`.
@@ -47,9 +50,7 @@
 - Verifiqué contenido web.
   ![alt text.](https://github.com/ING69COOLER/Proyecto_Infraestructura/blob/main/imagenes/Captura%20de%20pantalla%202025-11-16%20191006.png?raw=true)
 
-## Pruebas finales
 
-![alt text.](https://github.com/ING69COOLER/Proyecto_Infraestructura/blob/main/imagenes/Captura%20de%20pantalla%202025-11-16%20191006.png?raw=true)
 
 
 
